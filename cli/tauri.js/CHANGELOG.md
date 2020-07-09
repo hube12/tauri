@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.8.4]
+
+Bumped due to dependency.
+
 ## [0.8.3]
 
 -   Fixes the wrong cli value on the template that's used by tauri init.
